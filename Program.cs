@@ -69,7 +69,12 @@ foreach (var elem in arraialquadrato)
 
 //- *int sommaElementiArray(int[] array)*: che preso un array di numeri interi, restituisca la somma totale di tutti gli elementi dell’array.
 
-sommaElementiArray(array);
+
 Console.WriteLine("la somma totale degli elementi dell'arrai è:");
 Console.WriteLine(sommaElementiArray(array));
+
+//- Stampare la somma di tutti i numeri elevati al quadrato.
+
+
+Console.WriteLine(sommaElementiArray(arraialquadrato));
 
